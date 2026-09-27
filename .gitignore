@@ -22,10 +22,8 @@ dist-ssr
 scripts
 
 #ENV File
-.env
 
  Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 extensions.json
 .idea
@@ -50,3 +48,7 @@ test_snapshots
 
 # For Codebase Development
 SUMMARY_TYPESCRIPT.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
